@@ -1,0 +1,30 @@
+.jumbotron {
+    padding-top: 10rem;
+    background-color: #273036;
+}
+
+h1 {
+    color: whitesmoke;
+}
+
+.jumbotron p {
+    color: whitesmoke;
+}
+
+#project {
+    background-color: #273036;
+    color : whitesmoke;
+}
+
+.card-text {
+    color:black;
+}
+
+footer {
+    color:whitesmoke;
+}
+
+section {
+    padding-top: 6rem;
+    padding-bottom: 3rem;
+}
